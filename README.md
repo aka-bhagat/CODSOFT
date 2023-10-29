@@ -1,6 +1,6 @@
 # CODSOFT
 
-CodSoft C++ programming internship, where i have to complete 3 tasks for sucessful completion of the internship.
+CodSoft **C++ programming internship**, where i have to complete 3 tasks for sucessful completion of the internship.
 
 -----------here are my tasks------------------
 
